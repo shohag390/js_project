@@ -69,4 +69,5 @@ const uniqueNum = numberOfArray.filter(function (value, index, array) {
 });
 
 console.log(uniqueNum);
+
 // All done
